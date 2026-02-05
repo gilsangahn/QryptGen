@@ -1,5 +1,6 @@
 # QryptGen: a quantum GAN-based image encryption key generator using chaotic data distributions
-Quantum Information Processing / https://doi.org/10.1007/s11128-025-04750-5
+
+### Published in [*Quantum Information Processing*](https://doi.org/10.1007/s11128-025-04750-5)
 
 ![Submitted](https://img.shields.io/badge/Submitted-09_August_2024-blue)
 ![Accepted](https://img.shields.io/badge/Accepted-14_April_2025-green)
